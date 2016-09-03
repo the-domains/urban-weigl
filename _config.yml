@@ -1,0 +1,14 @@
+typography_spectrum: 0.1854975
+color:
+  saturation: 0.6648213
+  lightness: 0.8219827
+  brandStrength: 0.916834
+  brandColors:
+    - '#050602'
+    - '#ACC7E0'
+    - '#DFB489'
+    - '#424253'
+    - '#89909A'
+  rhythmicContrast: 0.6228681
+layout_spectrum: 1
+name: Urban Weigl
